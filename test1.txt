@@ -1,1 +1,3 @@
-second string
+﻿second string
+
+добавка каша
